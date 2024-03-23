@@ -14,6 +14,11 @@ You have been hired as a Performance Analyst for "AirBnB" and asked to analyze t
 
 Dataset can be found at [Maven Analytics](https://www.mavenanalytics.io/guided-projects#projects-list) . A profound gratitude is extended to Maven Analytis for offering this exceptional opportunity for practice through this project. 
 
+## Objectives
+- Objective 1: Profile & QA the data
+- Objective 2: Prepare the data for visualization
+- Objective 3: Visualize the data and summarize findings
+
 ## Skills showcased in this Project
 
 - Exploratory Data Analysis
