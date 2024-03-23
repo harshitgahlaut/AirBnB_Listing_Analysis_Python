@@ -14,7 +14,7 @@ You have been hired as a Performance Analyst for "AirBnB" and asked to analyze t
 
 ## Data Set
 
-Dataset can be found at [Maven Analytics](https://www.mavenanalytics.io/guided-projects#projects-list) . A profound gratitude is extended to Maven Analytis for offering this exceptional opportunity for practice through this project. 
+Dataset can be found at [Maven Analytics](https://www.mavenanalytics.io/guided-projects#projects-list) . A profound gratitude is extended to Maven Analytics for offering this exceptional opportunity for practice through this project. 
 
 ## Objectives
 - Objective 1: Profile & QA the data
