@@ -1,4 +1,4 @@
-# AirBnB Listing Analysis Python
+# AirBnB Listing Analysis
 
 ![proj2](https://github.com/harshitgahlaut/AirBnB_Listing_Analysis_Python/assets/142779836/fff47eb7-a249-49a9-9b15-49c864997f16)
 
